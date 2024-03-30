@@ -3,6 +3,11 @@
 
 This backend application, written in JavaScript, interprets dreams to identify potential emotional causes.
 
+Note: You can use Postman or similar tools to send requests.
+
+- Postman - `https://www.postman.com/downloads/`
+- Thunder Client - `https://www.thunderclient.com/`
+
 ## Installation
 
 To install dependencies, run:
@@ -13,7 +18,7 @@ npm install
 
 ## Usage
 
-Send a POST request with your dream text in JSON format to `http://localhost:3000/interpret`. Use tools like Postman for this.
+Send a POST request with your dream text in JSON format to `https://dream-interpretation-explore-your-dream.onrender.com`. Use tools like Postman for this.
 
 ### Example
 
